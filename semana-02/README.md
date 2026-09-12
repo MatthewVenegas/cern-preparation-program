@@ -1,2 +1,1 @@
-Segundo cambio para cumplir con la actividad
-Finalizando estructura del repositorio
+# Semana 02 - Exploración de la Terminal
